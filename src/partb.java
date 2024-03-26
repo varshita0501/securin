@@ -1,5 +1,5 @@
 import java.util.*;
-public class Main
+public class partb
 {
     static void undoom_dice(int[] die1,int[] die2){
         Random rand = new Random();
